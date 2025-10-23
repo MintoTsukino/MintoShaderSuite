@@ -20,6 +20,7 @@ Works standalone, compatible with PixiJS v5.
 - **独自のテクスチャ画像に差し替えることで、霧や光の色味・濃度・質感を自由に調整可能**
 
   *(You can replace the texture image with your own to customize the color tone, density, and texture quality of the fog or lighting effects.)*
+<img width="818" height="656" alt="スクリーンショット 2025-10-24 023310" src="https://github.com/user-attachments/assets/46dba3d6-c998-4fd6-8fd2-7097efaed716" />
 
 ---
 
@@ -49,4 +50,5 @@ Works standalone, compatible with PixiJS v5.
 自由に改変・再配布が可能ですが、クレジットを残してください。  
 You are free to use, modify, and redistribute this plugin under the MIT license.  
 Please retain the credit line in your works.
+
 
